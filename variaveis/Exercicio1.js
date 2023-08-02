@@ -1,0 +1,1 @@
+var FavoriteFood = 'Pizza'
